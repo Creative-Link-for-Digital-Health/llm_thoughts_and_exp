@@ -1,4 +1,4 @@
-# Thought and Expreiments on LLM implementations
+# Thought and Experiments on/with LLM implementations
 
 ## LORA Training
 
