@@ -2,11 +2,19 @@
 
 ## LORA Training
 
+*Easily Train a Specialized LLM: PEFT, LoRA, QLoRA, LLaMA-Adapter, and More*
+https://cameronrwolfe.substack.com/p/easily-train-a-specialized-llm-peft
+
+*Intro QLoRA (video)* 
+https://youtu.be/XpoKB3usmKc?si=7I5rAzGPghNYs56-
+
 ## RAG 
 
-*Verba* https://github.com/weaviate/Verba
+*Verba* 
+https://github.com/weaviate/Verba
 
-*Intro to RAG (video)* https://youtu.be/Ylz779Op9Pw?si=KSeLYeKlp0vz7aj9
+*Intro to RAG (video)* 
+https://youtu.be/Ylz779Op9Pw?si=KSeLYeKlp0vz7aj9
 
 ## Motivational Interviewing(MI) and LLMs
 
