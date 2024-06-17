@@ -8,9 +8,15 @@
 
 *Intro to RAG (video)* https://youtu.be/Ylz779Op9Pw?si=KSeLYeKlp0vz7aj9
 
-## Benchmarking
-
 ## Motivational Interviewing(MI) and LLMs
+
+*Supporting Physical Activity Behavior Change with LLM-Based Conversational Agents*
+https://arxiv.org/abs/2405.06061
+
+*Few-shot Dialogue Strategy Learning for Motivational Interviewing via Inductive Reasoning*
+https://arxiv.org/abs/2403.15737
+
+## Benchmarking
 
 ## Micro-constitution
 Need to figure out issues such as enduser autonomy for behavior change agents that we are working on. Too easy to create a nagging bot or overstep some important ethical boundaries. Might be addressed via prompt or through the trainging process or both. Note: a lot of the current work in this area is focused on the scaling aspect of reinforcement learning i.e. creating a guiding document and taking the human out of the loop. This might not be our consern in the therapy bot realm.  
