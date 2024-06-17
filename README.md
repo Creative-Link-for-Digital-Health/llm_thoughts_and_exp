@@ -5,6 +5,7 @@
 ## RAG 
 
 *Verba* https://github.com/weaviate/Verba
+
 *Intro to RAG (video)* https://youtu.be/Ylz779Op9Pw?si=KSeLYeKlp0vz7aj9
 
 ## Benchmarking
