@@ -14,3 +14,6 @@ Need to figure out issues such as enduser autonomy for behavior change agents th
 *Constitutional AI: Harmlessness from AI Feedback*
 https://arxiv.org/abs/2212.08073
 
+*From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models*
+https://arxiv.org/abs/2308.12014
+
