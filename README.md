@@ -13,7 +13,7 @@
 ## Motivational Interviewing(MI) and LLMs
 
 ## Micro-constitution
-Need to figure out issues such as enduser autonomy for behavior change agents that we are morking on. Too easy to create a nagging bot or overstep some important ethical boundaries. Might be addressed via prompt or through the trainging process or both. Note: a lot of the current work in this area is focused on the scaling aspect of reinforcement learning i.e. creating a guiding document and taking the human out of the loop to scale better. This might not be our consern in the therapy bot realm.  
+Need to figure out issues such as enduser autonomy for behavior change agents that we are working on. Too easy to create a nagging bot or overstep some important ethical boundaries. Might be addressed via prompt or through the trainging process or both. Note: a lot of the current work in this area is focused on the scaling aspect of reinforcement learning i.e. creating a guiding document and taking the human out of the loop. This might not be our consern in the therapy bot realm.  
 
 *Constitutional AI: Harmlessness from AI Feedback*
 https://arxiv.org/abs/2212.08073
