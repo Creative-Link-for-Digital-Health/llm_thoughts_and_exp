@@ -35,3 +35,9 @@ https://arxiv.org/abs/2212.08073
 *From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Models*
 https://arxiv.org/abs/2308.12014
 
+*Specific versus General Principles for Constitutional AI*
+https://ar5iv.labs.arxiv.org/html/2310.13798
+
+*Ethics of AI: A systematic literature review of principles and challenges*
+https://ar5iv.labs.arxiv.org/html/2109.07906
+
