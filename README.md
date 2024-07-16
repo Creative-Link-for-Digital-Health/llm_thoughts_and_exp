@@ -1,4 +1,4 @@
-# Thoughts and Experiments on/with LLM "Therapy Bot" Implementations
+# Thoughts and Experiments on/with LLM Bot Implementations
 
 ## LORA Training
 
